@@ -2,7 +2,7 @@
   "name": "rick-and-morty-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gprm2525,github.io/Rick-and-Morty-app",
+  "homepage": "http://gprm2525.github.io/Rick-and-Morty-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
